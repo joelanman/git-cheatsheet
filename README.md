@@ -29,4 +29,4 @@ Commit your changes to Git - like saving a version of your project.
 
 `git log`
 
-Show a list of commits - your commit messages appear here. Press 'q' to quit.
+Show a list of commits - your commit messages appear here. Press 'q' to quit or press space to see more.
