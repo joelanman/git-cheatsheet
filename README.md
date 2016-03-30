@@ -1,5 +1,13 @@
 # Git Cheatsheet
 
+## Introduction
+
+Git is a system to save versions of your project. If you work on your project with other people, Git keeps you all up to date with each other's work.
+
+You use Git in the Terminal (Mac) or in [Git Bash](https://git-scm.com/downloads) (Windows).
+
+You need to change to your project directory (using the `cd` command) before running any Git command.
+
 ## 1. Working on files on your own computer
 
 `git init`
