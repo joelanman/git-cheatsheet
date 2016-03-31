@@ -8,11 +8,16 @@ You use Git in the Terminal (Mac) or in [Git Bash](https://git-scm.com/downloads
 
 You need to change to your project directory (using the `cd` command) before running any Git command.
 
+Some terms:
+
+- **Repository** or 'repo' is your project stored by Git, with all your changes recorded so you can undo them.
+- **Commit** a saved version of your project
+
 ## 1. Working on files on your own computer
 
 `git init`
 
-Run this in a new folder to start using Git on that project.
+Run this to start using Git on a new project.
 You don't need to do this if you downloaded an existing repository.
 
 `git status`
